@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #eef1f5;
+}
+
+.app {
+  width: 420px;
+  margin: 80px auto;
+  background: white;
+  padding: 25px;
+  border-radius: 8px;
+}
+
+li {
+  padding: 6px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
